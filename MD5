@@ -1,0 +1,13 @@
+49d818aa21d9a64ca19e4d0dd10780ae *DESCRIPTION
+6d6c9fe2189a09c8a054d446ad41aa1b *NAMESPACE
+54207e1134cece8af097a26c3b1402ab *R/BiCopGen.R
+1e3fffcfc7133af1c43f73a6bc85e266 *R/LiBiCop.R
+6f35bc3c1d2bbf2fb88e817f6a5b61a7 *R/dbivar.R
+e07240618759db03d9e7c9e17b23a2cb *R/gammafit.R
+d076b7272eec53903c2c2bb9b0c4bba6 *man/BiCopGen.Rd
+23195e054fee19bc849703055863c888 *man/BiVarEst.Rd
+3d984ea662b2bdbbfaec9d06166aeb72 *man/BivarP-package.Rd
+fdc0534877e3ee16cfbb57f1880529e8 *man/dibivar.Rd
+b583725a740f72439cd583a347df3787 *man/gammafit.Rd
+84f2e843747a1f4937e85af6a677ceb4 *man/pibivar.Rd
+86b6e9a5dfbe28845fc593b3aa114a6d *man/subivar.Rd
